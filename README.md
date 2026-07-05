@@ -84,22 +84,6 @@ VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 ```
 
----
-
-## 📸 Screenshots
-
-Add screenshots here.
-
-Example:
-
-```
-screenshots/
-├── home.png
-├── dashboard.png
-├── login.png
-```
-
----
 
 ## 🚀 Deployment
 
@@ -160,11 +144,6 @@ git push origin feature-name
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👨‍💻 Author
 
